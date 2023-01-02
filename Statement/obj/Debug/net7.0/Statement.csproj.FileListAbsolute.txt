@@ -1,0 +1,15 @@
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Statement\bin\Debug\net7.0\Statement.exe
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Statement\bin\Debug\net7.0\Statement.deps.json
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Statement\bin\Debug\net7.0\Statement.runtimeconfig.json
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Statement\bin\Debug\net7.0\Statement.dll
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Statement\bin\Debug\net7.0\Statement.pdb
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Statement\obj\Debug\net7.0\Statement.csproj.AssemblyReference.cache
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Statement\obj\Debug\net7.0\Statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Statement\obj\Debug\net7.0\Statement.AssemblyInfoInputs.cache
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Statement\obj\Debug\net7.0\Statement.AssemblyInfo.cs
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Statement\obj\Debug\net7.0\Statement.csproj.CoreCompileInputs.cache
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Statement\obj\Debug\net7.0\Statement.dll
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Statement\obj\Debug\net7.0\refint\Statement.dll
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Statement\obj\Debug\net7.0\Statement.pdb
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Statement\obj\Debug\net7.0\Statement.genruntimeconfig.cache
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Statement\obj\Debug\net7.0\ref\Statement.dll
