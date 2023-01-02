@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statement", "..\Statement\Statement.csproj", "{9A64B097-60AD-40CD-B79C-E2DEED3FEC68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic_Dasar", "..\Logic-Dasar\Logic_Dasar.csproj", "{CC93A47F-752B-443C-8BB0-8EF3781DE633}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9A64B097-60AD-40CD-B79C-E2DEED3FEC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A64B097-60AD-40CD-B79C-E2DEED3FEC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A64B097-60AD-40CD-B79C-E2DEED3FEC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC93A47F-752B-443C-8BB0-8EF3781DE633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC93A47F-752B-443C-8BB0-8EF3781DE633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC93A47F-752B-443C-8BB0-8EF3781DE633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC93A47F-752B-443C-8BB0-8EF3781DE633}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
