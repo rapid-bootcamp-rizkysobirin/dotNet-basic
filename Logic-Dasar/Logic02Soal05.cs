@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Logic_Dasar
 {
-    public class Logic02Soal04
+    public class Logic02Soal05
     {
-        public Logic02Soal04()
+        public Logic02Soal05()
         {
 
         }
@@ -20,15 +20,16 @@ namespace Logic_Dasar
             {
                 for (int j = 0; j<n; j++)
                 {
-                    if (j <= 1)
+                    if (j <= 2)
                     {
                         arr[j]=1;
                     }
                     else
                     {
-                        arr[j] = arr[j - 1] + arr[j - 2];
+                        arr[j] = arr[j - 1] + arr[j - 2] + arr[j-3];
                     }
-                    if (i==0 || j==0 || i==n-1 || j==n-1 || i==n/2 || j == n / 2)
+                    if (j<=i&&j<=n-i-1 || j>=i&&j>=n-i-1)
+                    //if (j <= i && j <= n / 2 && i <= n / 2 || j >= i && j >= n / 2 && i >= n / 2 || j <= i && i >= n/2 && j<=n-i-1 || j >= i && i <= n / 2 && j >=n - i - 1)
                     {
                         Console.Write(arr[j] + "\t");
                     }
