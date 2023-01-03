@@ -4,6 +4,7 @@ using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Logic_Dasar
 {
@@ -37,6 +38,10 @@ namespace Logic_Dasar
                     {
                         Console.Write("\t");
                     }
+                }
+                foreach (var item in arr)
+                {
+                    Console.Write($" ==> {item}");
                 }
                 Console.WriteLine("\n");
             }
