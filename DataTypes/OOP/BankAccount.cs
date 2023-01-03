@@ -9,7 +9,7 @@ namespace DataTypes.OOP
 {
     public class BankAccount
     {
-
+        //tidak melewati proses instansiasi
         private static int accountNumberSeed = 1234567890;
         //ini geter setter
         //read
@@ -33,6 +33,9 @@ namespace DataTypes.OOP
         }
 
         public BankAccount() { }
+        public virtual void PerformMonthEndTransactions()
+        {
+        }
 
         public BankAccount(string name, decimal initialBalance)
         {
@@ -73,6 +76,21 @@ namespace DataTypes.OOP
             }
             var withdrawal = new Transaction(-amount, date, note);
             allTransactions.Add(withdrawal);
+        }
+
+        public string GetAccountHistory()
+        {
+            var report = new System.Text.StringBuilder();
+
+            decimal balance = 0;
+            report.AppendLine("Date\t\tAmount\tBalance\tNote");
+            foreach (var item in allTransactions)
+            {
+                balance += item.Amount;
+                report.AppendLine($"{item.Date.ToShortDateString()}\t{item.Amount}\t{balance}\t{item.Notes}");
+            }
+
+            return report.ToString();
         }
     }
 }
