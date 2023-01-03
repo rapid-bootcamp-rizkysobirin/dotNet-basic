@@ -21,6 +21,9 @@ public class MainLogic
         Logic02Soal05.CetakData(n);
         Console.WriteLine("No 6" + "\n");
         Logic02Soal06.CetakData(n);
+        Console.WriteLine("No 7" + "\n");
+        Logic02Soal07.CetakData(n);
+        Console.WriteLine("No 8" + "\n");
         Logic02Soal08.CetakData(n);
     }
 }

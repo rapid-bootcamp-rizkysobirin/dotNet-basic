@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Logic_Dasar
 {
-    public class Logic02Soal08
+    public class Logic02Soal07
     {
-        public Logic02Soal08() 
+        public Logic02Soal07() 
         { 
             
         }
@@ -29,7 +29,7 @@ namespace Logic_Dasar
                         arr[j] = arr[j - 1] + arr[j - 2];
                     }
 
-                    if (j<=n/2 && j>=n-i-1 || j >= n / 2 && j <= n - i - 1)
+                    if (j<=n/2 && j>=n-i-1 || j >= n / 2 && j <= n - i - 1 || j<=n-i-1 && j<=n/2)
                     {
                         Console.Write(arr[i] + "\t");
                     }
