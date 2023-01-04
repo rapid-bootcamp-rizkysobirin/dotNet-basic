@@ -1,5 +1,8 @@
 ﻿using DataTypes.CustomType;
+using DataTypes.Inheritance;
+using DataTypes.ObjectType;
 using DataTypes.OOP;
+using DataTypes.PolyType;
 using System;
 namespace DataTypes
 {
@@ -31,11 +34,114 @@ namespace DataTypes
             //InterestEarningAccountsample();
             //LineOfCreditAccountSample();
 
-            LineOfCreditAccountSample();
-            InterestEarningAccountsample();
+            //LineOfCreditAccountSample();
+            //InterestEarningAccountsample();
+
+            //SampleObject();
+            //SamplePolymorphism(); 
+            //jd gini
+            //SampleClassImplement.InterfaceImplement();
+            Shape.SamplePolymorphism();
         }
 
+
+        //ini dipindah di file shape.cs
+        #region Polimorphism
+        //public static void SamplePolymorphism()
+        //{
+        //    // Polymorphism at work #1: a Rectangle, Triangle and Circle
+        //    // can all be used wherever a Shape is expected. No cast is
+        //    // required because an implicit conversion exists from a derived
+        //    // class to its base class.
+        //    var shapes = new List<Shape>
+        //    {
+        //        new Rectangle(),
+        //        new Triangle(),
+        //        new Circle()
+        //    };
+
+        //    // Polymorphism at work #2: the virtual method Draw is
+        //    // invoked on each of the derived classes, not the base class.
+        //    foreach (var shape in shapes)
+        //    {
+        //        shape.Draw();
+        //    }
+        //    /* Output:
+        //        Drawing a rectangle
+        //        Performing base class drawing tasks
+        //        Drawing a triangle
+        //        Performing base class drawing tasks
+        //        Drawing a circle
+        //        Performing base class drawing tasks
+        //    */
+        //}
+
+        #endregion
+
+        #region Sample Inheritance
+        public static void SampleInheritance()
+        {
+            // Create an instance of WorkItem by using the constructor in the
+            // base class that takes three arguments.
+            WorkItem item = new WorkItem("Fix Bugs",
+                                        "Fix all bugs in my code branch",
+                                        new TimeSpan(3, 4, 0, 0));
+
+            // Create an instance of ChangeRequest by using the constructor in
+            // the derived class that takes four arguments.
+            ChangeRequest change = new ChangeRequest("Change Base Class Design",
+                                                    "Add members to the class",
+                                                    new TimeSpan(4, 0, 0),
+                                                    1);
+
+            // Use the ToString method defined in WorkItem.
+            Console.WriteLine(item.ToString());
+
+            // Use the inherited Update method to change the title of the
+            // ChangeRequest object.
+            change.Update("Change the Design of the Base Class",
+                new TimeSpan(4, 0, 0));
+
+            // ChangeRequest inherits WorkItem's override of ToString.
+            Console.WriteLine(change.ToString());
+            /* Output:
+                1 - Fix Bugs
+                2 - Change the Design of the Base Class
+            */
+
+
+        }
+
+        #endregion
+
+        #region Sample Object
+        public static void SampleObject()
+        {
+            //     object         konstruktor
+            Person person1 = new Person("Leopold", 6);
+            Console.WriteLine("person1 Name = {0} Age = {1}", person1.Name, person1.Age);
+
+            // Declare new person, assign person1 to it.
+            Person person2 = person1;
+
+            // Change the name of person2, and person1 also changes.
+            person2.Name = "Molly";
+            person2.Age = 16;
+
+            Console.WriteLine("person2 Name = {0} Age = {1}", person2.Name, person2.Age);
+            Console.WriteLine("person1 Name = {0} Age = {1}", person1.Name, person1.Age);
+
+            Person person3 = new Person("Obi",90);
+            Console.WriteLine("person3 Name = {0} Age = {1}", person3.Name, person3.Age);
+
+            Product productA = new Product("Garem", 5000, "Bumbu Dapur");
+            Console.WriteLine("{0} adalah {2} seharga {1}", productA.Name, productA.Price, productA.Category);
+
+        }
+        #endregion
+
         #region Sample LineofCredit
+        //dapat memiliki saldo negatif, tetapi bila ada saldo, ada beban bunga setiap bulan.
         public static void LineOfCreditAccountSample()
         {
             var lineOfCredit = new LineOfCreditAccount("line of credit", 0);
@@ -50,6 +156,7 @@ namespace DataTypes
         #endregion
 
         #region Sample GiftCard
+        //diisi ulang sekali pada awal setiap bulan.
         public static void GiftCardAccountSample()
         {
             var giftCard = new GiftCardAccount("gift card", 100, 50);
@@ -63,6 +170,7 @@ namespace DataTypes
         #endregion
 
         #region Sample Interest Earning Account Sample
+        //bunga pada akhir setiap bulan
         public static void InterestEarningAccountsample()
         {
             var savings = new InterestEarningAccount("savings account", 10000);
