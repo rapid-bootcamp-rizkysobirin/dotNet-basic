@@ -1,0 +1,15 @@
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Sample101Linq\bin\Debug\net7.0\Sample101Linq.exe
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Sample101Linq\bin\Debug\net7.0\Sample101Linq.deps.json
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Sample101Linq\bin\Debug\net7.0\Sample101Linq.runtimeconfig.json
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Sample101Linq\bin\Debug\net7.0\Sample101Linq.dll
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Sample101Linq\bin\Debug\net7.0\Sample101Linq.pdb
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.csproj.AssemblyReference.cache
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.AssemblyInfoInputs.cache
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.AssemblyInfo.cs
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.csproj.CoreCompileInputs.cache
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.dll
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Sample101Linq\obj\Debug\net7.0\refint\Sample101Linq.dll
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.pdb
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Sample101Linq\obj\Debug\net7.0\Sample101Linq.genruntimeconfig.cache
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\Sample101Linq\obj\Debug\net7.0\ref\Sample101Linq.dll

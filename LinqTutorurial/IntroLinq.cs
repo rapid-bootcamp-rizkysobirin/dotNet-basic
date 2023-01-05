@@ -13,39 +13,43 @@ namespace LinqTutorurial
         public static void Introduction()
         {
             // Specify the data source.
-            int[] scores = { 97, 92, 81, 60,83,66,88,85 };
-
-            //ini tanpa linq 
-            //for untuk filter
+            int[] scores = { 97, 92, 81, 60, 63, 83, 66, 88, 85 };
+            // ini tanpa linq
+            
             List<int> listScore = new List<int>();
-            for(int i=0; i<scores.Length; i++)
+            for (int i = 0; i < scores.Length; i++)
             {
-                if (scores[i] > 88)
+                // for untuk filter
+                if (scores[i] > 80)
                 {
                     listScore.Add(scores[i]);
                 }
             }
-            
-            //LazyInitializer dengan linq
-            // Define the query expression.
-            IEnumerable<int> scoreQuery =
-                from score in scores
-                where score > 88
-                select score;
 
-
-            //for untuk menampilkan
             // Execute the query.
             foreach (int i in listScore)
             {
                 Console.Write(i + " ");
             }
-            foreach (int j in scoreQuery)
-            {
-                Console.Write(j + " ");
-            }
 
-            // Output: 97 92 81
         }
+
+
+        public static void IntroductionWithLinq()
+        {
+            // Specify the data source.
+            int[] scores = { 97, 92, 81, 60, 63, 83, 66, 88, 85 };
+            // Define the query expression.
+            IEnumerable<int> listScore =
+                from score in scores
+                where score > 80
+                select score;
+            // Execute the query.
+            foreach (int i in listScore)
+            {
+                Console.Write(i + " ");
+            }
+        }
+
     }
 }
