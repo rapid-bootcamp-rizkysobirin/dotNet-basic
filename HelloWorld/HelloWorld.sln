@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Statement", "..\Statement\S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logic_Dasar", "..\Logic-Dasar\Logic_Dasar.csproj", "{CC93A47F-752B-443C-8BB0-8EF3781DE633}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "..\DataTypes\DataTypes.csproj", "{959E0B37-143D-49E2-849E-8473F23127D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes", "..\DataTypes\DataTypes.csproj", "{959E0B37-143D-49E2-849E-8473F23127D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqTutorurial", "..\LinqTutorurial\LinqTutorurial.csproj", "{15109657-5627-4420-BDD6-6E983B9DE3C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{959E0B37-143D-49E2-849E-8473F23127D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{959E0B37-143D-49E2-849E-8473F23127D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{959E0B37-143D-49E2-849E-8473F23127D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15109657-5627-4420-BDD6-6E983B9DE3C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15109657-5627-4420-BDD6-6E983B9DE3C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15109657-5627-4420-BDD6-6E983B9DE3C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15109657-5627-4420-BDD6-6E983B9DE3C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

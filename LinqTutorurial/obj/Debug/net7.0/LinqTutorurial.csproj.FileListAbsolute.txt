@@ -1,0 +1,15 @@
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\LinqTutorurial\bin\Debug\net7.0\LinqTutorurial.exe
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\LinqTutorurial\bin\Debug\net7.0\LinqTutorurial.deps.json
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\LinqTutorurial\bin\Debug\net7.0\LinqTutorurial.runtimeconfig.json
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\LinqTutorurial\bin\Debug\net7.0\LinqTutorurial.dll
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\LinqTutorurial\bin\Debug\net7.0\LinqTutorurial.pdb
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\LinqTutorurial\obj\Debug\net7.0\LinqTutorurial.csproj.AssemblyReference.cache
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\LinqTutorurial\obj\Debug\net7.0\LinqTutorurial.GeneratedMSBuildEditorConfig.editorconfig
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\LinqTutorurial\obj\Debug\net7.0\LinqTutorurial.AssemblyInfoInputs.cache
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\LinqTutorurial\obj\Debug\net7.0\LinqTutorurial.AssemblyInfo.cs
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\LinqTutorurial\obj\Debug\net7.0\LinqTutorurial.csproj.CoreCompileInputs.cache
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\LinqTutorurial\obj\Debug\net7.0\LinqTutorurial.dll
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\LinqTutorurial\obj\Debug\net7.0\refint\LinqTutorurial.dll
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\LinqTutorurial\obj\Debug\net7.0\LinqTutorurial.pdb
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\LinqTutorurial\obj\Debug\net7.0\LinqTutorurial.genruntimeconfig.cache
+D:\kontrak kerja\belajar.Net 3\dotNet-basic\LinqTutorurial\obj\Debug\net7.0\ref\LinqTutorurial.dll
