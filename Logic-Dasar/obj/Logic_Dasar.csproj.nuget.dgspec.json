@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\kontrak kerja\\belajar.Net 3\\dotNet-basic\\Logic-Dasar\\Logic_Dasar.csproj": {}
+    "E:\\belajar\\.Net\\dotNet-basic\\Logic-Dasar\\Logic_Dasar.csproj": {}
   },
   "projects": {
-    "D:\\kontrak kerja\\belajar.Net 3\\dotNet-basic\\Logic-Dasar\\Logic_Dasar.csproj": {
+    "E:\\belajar\\.Net\\dotNet-basic\\Logic-Dasar\\Logic_Dasar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\kontrak kerja\\belajar.Net 3\\dotNet-basic\\Logic-Dasar\\Logic_Dasar.csproj",
+        "projectUniqueName": "E:\\belajar\\.Net\\dotNet-basic\\Logic-Dasar\\Logic_Dasar.csproj",
         "projectName": "Logic_Dasar",
-        "projectPath": "D:\\kontrak kerja\\belajar.Net 3\\dotNet-basic\\Logic-Dasar\\Logic_Dasar.csproj",
-        "packagesPath": "C:\\Users\\natadekoko\\.nuget\\packages\\",
-        "outputPath": "D:\\kontrak kerja\\belajar.Net 3\\dotNet-basic\\Logic-Dasar\\obj\\",
+        "projectPath": "E:\\belajar\\.Net\\dotNet-basic\\Logic-Dasar\\Logic_Dasar.csproj",
+        "packagesPath": "C:\\Users\\Rin\\.nuget\\packages\\",
+        "outputPath": "E:\\belajar\\.Net\\dotNet-basic\\Logic-Dasar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\natadekoko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

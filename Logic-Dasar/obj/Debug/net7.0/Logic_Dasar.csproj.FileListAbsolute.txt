@@ -13,3 +13,18 @@ D:\kontrak kerja\belajar.Net 3\dotNet-basic\Logic-Dasar\obj\Debug\net7.0\refint\
 D:\kontrak kerja\belajar.Net 3\dotNet-basic\Logic-Dasar\obj\Debug\net7.0\Logic_Dasar.pdb
 D:\kontrak kerja\belajar.Net 3\dotNet-basic\Logic-Dasar\obj\Debug\net7.0\Logic_Dasar.genruntimeconfig.cache
 D:\kontrak kerja\belajar.Net 3\dotNet-basic\Logic-Dasar\obj\Debug\net7.0\ref\Logic_Dasar.dll
+E:\belajar\.Net\dotNet-basic\Logic-Dasar\bin\Debug\net7.0\Logic_Dasar.exe
+E:\belajar\.Net\dotNet-basic\Logic-Dasar\bin\Debug\net7.0\Logic_Dasar.deps.json
+E:\belajar\.Net\dotNet-basic\Logic-Dasar\bin\Debug\net7.0\Logic_Dasar.runtimeconfig.json
+E:\belajar\.Net\dotNet-basic\Logic-Dasar\bin\Debug\net7.0\Logic_Dasar.dll
+E:\belajar\.Net\dotNet-basic\Logic-Dasar\bin\Debug\net7.0\Logic_Dasar.pdb
+E:\belajar\.Net\dotNet-basic\Logic-Dasar\obj\Debug\net7.0\Logic_Dasar.csproj.AssemblyReference.cache
+E:\belajar\.Net\dotNet-basic\Logic-Dasar\obj\Debug\net7.0\Logic_Dasar.GeneratedMSBuildEditorConfig.editorconfig
+E:\belajar\.Net\dotNet-basic\Logic-Dasar\obj\Debug\net7.0\Logic_Dasar.AssemblyInfoInputs.cache
+E:\belajar\.Net\dotNet-basic\Logic-Dasar\obj\Debug\net7.0\Logic_Dasar.AssemblyInfo.cs
+E:\belajar\.Net\dotNet-basic\Logic-Dasar\obj\Debug\net7.0\Logic_Dasar.csproj.CoreCompileInputs.cache
+E:\belajar\.Net\dotNet-basic\Logic-Dasar\obj\Debug\net7.0\Logic_Dasar.dll
+E:\belajar\.Net\dotNet-basic\Logic-Dasar\obj\Debug\net7.0\refint\Logic_Dasar.dll
+E:\belajar\.Net\dotNet-basic\Logic-Dasar\obj\Debug\net7.0\Logic_Dasar.pdb
+E:\belajar\.Net\dotNet-basic\Logic-Dasar\obj\Debug\net7.0\Logic_Dasar.genruntimeconfig.cache
+E:\belajar\.Net\dotNet-basic\Logic-Dasar\obj\Debug\net7.0\ref\Logic_Dasar.dll
